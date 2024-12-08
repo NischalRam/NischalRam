@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 As a graduate-level computer science student, I am deeply passionate about Artificial intelligence, Data Engineering, and DevOps practices. I am keen to leverage my skills to optimize development processes, introduce cutting-edge solutions, and contribute to innovative projects within a dynamic team environment.
 
 
@@ -18,4 +18,4 @@ As a graduate-level computer science student, I am deeply passionate about Artif
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NischalRam&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=NischalRam&icon=0&color=0)
